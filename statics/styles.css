@@ -1,0 +1,12 @@
+div {
+    background-color: rgb(45, 55, 153);
+    border-color: grey;
+    border: 5px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    padding-inline-start: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
